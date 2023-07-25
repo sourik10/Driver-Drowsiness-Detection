@@ -9,11 +9,11 @@ we determine whether the eyes are open or they are closed.</br></br>
 <ul><li>As you can see the<b> above screenshot</b> where the landmarks aredetected using the detector.
 <li>Now we are taking the ratio which is described as <i>'Sum of distances of vertical landmarks divided by twice the distance between horizontal landmarks'</i>.
 <li>Now this ratio is totally dependent on your system which you may configure accordingly for the thresholds of sleeping, drowsy, active.</ul>
+<h2> Active State</h2>
 <center>
-  <h2> Active State</h2>
   <img src="https://github.com/sourik10/Driver-Drowsiness-Detection/blob/main/screenshots/fy_ss1.PNG" align="center" height="350">
 </center>
+ <h2> Drowsiness Alert </h2>
 <center>
-   <h2> Drowsiness Alert </h2>
   <img src="https://github.com/sourik10/Driver-Drowsiness-Detection/blob/main/screenshots/fy_ss2.PNG" align="center" height="350">
 </center>
